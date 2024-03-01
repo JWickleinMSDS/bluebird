@@ -1,0 +1,3 @@
+1) Begin by getting the bluebird package by executing the command "go get github.com/JWickleinMSDS/bluebird" on the terminal.  This package contains the package I created to calculate the trimmed mean of integers and floats.  
+
+2) Execute the test designed for the bluebird package with the command "go test".  This will create a sample of 100 integers and floats and test the trimmed mean function against the base mean function in R. 
